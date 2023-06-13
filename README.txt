@@ -37,5 +37,6 @@ manages (employee-name, manager-name)
   (a) Modify the database so that Jones now lives in Newtown.
   (b) Give all employees of First Bank Corporation a 10 percent raise.
   (c) Give all managers of First Bank Corporation a 10 percent raise.
-  (d) Give all managers of First Bank Corporation a 10 percent raise unless the salary becomes greater than $100,000; in such cases, give       only a 3 percent raise.
+  (d) Give all managers of First Bank Corporation a 10 percent raise unless the salary becomes greater than $100,000; in such cases,
+      give only a 3 percent raise.
   (e) Delete all tuples in the works relation for employees of Small Bank Corporation.
